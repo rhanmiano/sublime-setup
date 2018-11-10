@@ -23,7 +23,7 @@ Personal sublime settings and plugins - for easy referencing
 	"word_wrap": true
 }
 
-``
+```
 
 ## Plugins
 
