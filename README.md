@@ -1,5 +1,8 @@
-# sublime-setup
+# Sublime Setup
 Personal sublime settings and plugins - for easy referencing
+
+## Version
+3.1.1
 
 ## Settings
 
@@ -39,4 +42,3 @@ Personal sublime settings and plugins - for easy referencing
     - jshint
     - phplint
     - pylint
-    
