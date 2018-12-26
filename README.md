@@ -31,12 +31,41 @@ Personal sublime settings and plugins - for easy referencing
 ## Plugins
 
   - Alignment
+  ```
+  {
+      // The mid-line characters to align in a multi-line selection, changing
+      // this to an empty array will disable mid-line alignment
+      "alignment_chars": [
+          "=", ":"
+      ]
+  }
+  ```
   - AutoFileName
   - BracketHighlighter
   - Emmet
+  ```
+  //Default(Windows).sublime-keymap
+  {
+    "keys": [
+      "tab"
+    ],
+    "args": {
+      "action": "expand_abbreviation"
+    },
+    "command": "run_emmet_action",
+    "context": [
+      {
+        "key": "emmet_action_enabled.expand_abbreviation"
+      }
+    ]
+  }
+  ```
+  - HTMLBeautify
+  - JSBeautify  
   - PHPIntel
   - PHPSnippets
-  - SCSS Snippets Complete
+  - SASS
+  - SASSBeautify
   - SublimeLinter
     - anotations
     - jshint
