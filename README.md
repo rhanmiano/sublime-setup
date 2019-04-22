@@ -61,6 +61,7 @@ Personal sublime settings and plugins - for easy referencing
   }
   ```
   - HTMLBeautify
+  - Markdown Editing
   - JSBeautify  
   - PHPIntel
   - PHPSnippets
@@ -71,3 +72,4 @@ Personal sublime settings and plugins - for easy referencing
     - jshint
     - phplint
     - pylint
+  - Pretty JSON
